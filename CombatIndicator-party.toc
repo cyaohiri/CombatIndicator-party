@@ -1,0 +1,6 @@
+## Interface: 11200
+## Author: ChatGPT
+## Title: CombatIndicator-party
+## Notes: Shows an icon next to each party member that is in combat
+## X-Website: https://github.com/cyaohiri/CombatIndicator-party
+CombatIndicator-party.lua
